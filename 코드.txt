@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head></head>
+<body></body>
+</html>
+
+<meta charset="utf-8>"
+<title></title>
+<strong></strong>
+<u></u>
+<p></p>
+<h1></h1>-h1~6
+<ul><li></li></ul> <ol> </ol>
+ 
+
+<a href=" "target="blank"title=" "></a>
+<a href="https://www.w3.org/TR/2011/WD-html5-20110405/"target="_blank" title="html specification">
+
+<input type="checkbox">
